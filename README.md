@@ -3,7 +3,7 @@
 กราฟแบบ interactive สำหรับเด็กอายุ 4–12 ปี  
 เลือกได้ทั้งเพศชาย/หญิง และกราฟน้ำหนักตามอายุ หรือน้ำหนักตามส่วนสูง
 
-🔗 **เปิดกราฟ**: https://pattira1973.github.io/growth-curve/
+🔗 **เปิดกราฟ**: [https://pattira1973.github.io/growth-curve/](https://pattira1973.github.io/growth-curve/)
 
 ---
 
